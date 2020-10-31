@@ -1,0 +1,10 @@
+.header {
+    justify-content: center;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: aquamarine;
+
+}
